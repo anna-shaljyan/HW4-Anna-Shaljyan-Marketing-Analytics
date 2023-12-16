@@ -1,7 +1,7 @@
 # Social Network Analysis Homework
 
-Student: Anna Shaljyan
-Instructor: Karen Hovhannisyan
+- Student: Anna Shaljyan
+- Instructor: Karen Hovhannisyan
 
 ## Scenario
 
